@@ -1,0 +1,28 @@
+name: Grey Swan
+favicon: null
+layout_spectrum: 0.33270294684916735
+typography_spectrum: 0.5479977079667151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4937790578696877
+  lightness: 0.8926596643868834
+  saturation: 0.6118748402222991
+  rhythmicContrast: 0.8065497502684593
+purpose: []
